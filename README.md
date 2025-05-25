@@ -23,4 +23,10 @@ A simple and clean CRUD API built with **.NET 8 Minimal APIs** to manage blog po
 - **JWT Authentication**
 - **Data Annotations**
 
+  ### ✅ Prerequisites
+
+- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
+- [Postman](https://www.postman.com/) 
+
+
 ---
