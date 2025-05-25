@@ -28,5 +28,8 @@ A simple and clean CRUD API built with **.NET 8 Minimal APIs** to manage blog po
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
 - [Postman](https://www.postman.com/) 
 
+ ### Login
+-username : admin
+-password : password
 
 ---
